@@ -1,2 +1,2 @@
-# BackendCordillera
-backend proyecto grupo cordillera
+# GrupoCordilleraFinal
+backend y frontend proyecto grupo cordillera
