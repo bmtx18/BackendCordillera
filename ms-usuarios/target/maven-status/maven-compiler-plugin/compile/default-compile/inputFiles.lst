@@ -1,0 +1,14 @@
+C:\Users\AO-Alumno\Desktop\GrupoCordillera-main\backend\ms-usuarios\src\main\java\com\cordillera\ms\usuarios\controller\UsuarioController.java
+C:\Users\AO-Alumno\Desktop\GrupoCordillera-main\backend\ms-usuarios\src\main\java\com\cordillera\ms\usuarios\dto\CalificacionRequest.java
+C:\Users\AO-Alumno\Desktop\GrupoCordillera-main\backend\ms-usuarios\src\main\java\com\cordillera\ms\usuarios\dto\LoginRequest.java
+C:\Users\AO-Alumno\Desktop\GrupoCordillera-main\backend\ms-usuarios\src\main\java\com\cordillera\ms\usuarios\dto\RegistroRequest.java
+C:\Users\AO-Alumno\Desktop\GrupoCordillera-main\backend\ms-usuarios\src\main\java\com\cordillera\ms\usuarios\entity\Antecedente.java
+C:\Users\AO-Alumno\Desktop\GrupoCordillera-main\backend\ms-usuarios\src\main\java\com\cordillera\ms\usuarios\entity\CalificacionDriver.java
+C:\Users\AO-Alumno\Desktop\GrupoCordillera-main\backend\ms-usuarios\src\main\java\com\cordillera\ms\usuarios\entity\Usuario.java
+C:\Users\AO-Alumno\Desktop\GrupoCordillera-main\backend\ms-usuarios\src\main\java\com\cordillera\ms\usuarios\kafka\UsuarioEvent.java
+C:\Users\AO-Alumno\Desktop\GrupoCordillera-main\backend\ms-usuarios\src\main\java\com\cordillera\ms\usuarios\kafka\UsuarioProducer.java
+C:\Users\AO-Alumno\Desktop\GrupoCordillera-main\backend\ms-usuarios\src\main\java\com\cordillera\ms\usuarios\MsUsuariosApplication.java
+C:\Users\AO-Alumno\Desktop\GrupoCordillera-main\backend\ms-usuarios\src\main\java\com\cordillera\ms\usuarios\repository\AntecedenteRepository.java
+C:\Users\AO-Alumno\Desktop\GrupoCordillera-main\backend\ms-usuarios\src\main\java\com\cordillera\ms\usuarios\repository\CalificacionRepository.java
+C:\Users\AO-Alumno\Desktop\GrupoCordillera-main\backend\ms-usuarios\src\main\java\com\cordillera\ms\usuarios\repository\UsuarioRepository.java
+C:\Users\AO-Alumno\Desktop\GrupoCordillera-main\backend\ms-usuarios\src\main\java\com\cordillera\ms\usuarios\service\UsuarioService.java

@@ -1,0 +1,12 @@
+C:\Users\AO-Alumno\Desktop\GrupoCordillera-main\backend\ms-reportes\src\main\java\com\groupcordillera\ms_reportes\config\KafkaConsumerConfig.java
+C:\Users\AO-Alumno\Desktop\GrupoCordillera-main\backend\ms-reportes\src\main\java\com\groupcordillera\ms_reportes\controller\ReporteController.java
+C:\Users\AO-Alumno\Desktop\GrupoCordillera-main\backend\ms-reportes\src\main\java\com\groupcordillera\ms_reportes\kafka\ReporteConsumer.java
+C:\Users\AO-Alumno\Desktop\GrupoCordillera-main\backend\ms-reportes\src\main\java\com\groupcordillera\ms_reportes\kafka\UsuarioEvent.java
+C:\Users\AO-Alumno\Desktop\GrupoCordillera-main\backend\ms-reportes\src\main\java\com\groupcordillera\ms_reportes\model\DetalleReporte.java
+C:\Users\AO-Alumno\Desktop\GrupoCordillera-main\backend\ms-reportes\src\main\java\com\groupcordillera\ms_reportes\model\Reporte.java
+C:\Users\AO-Alumno\Desktop\GrupoCordillera-main\backend\ms-reportes\src\main\java\com\groupcordillera\ms_reportes\model\ReporteUsuario.java
+C:\Users\AO-Alumno\Desktop\GrupoCordillera-main\backend\ms-reportes\src\main\java\com\groupcordillera\ms_reportes\MsReportesApplication.java
+C:\Users\AO-Alumno\Desktop\GrupoCordillera-main\backend\ms-reportes\src\main\java\com\groupcordillera\ms_reportes\repository\DetalleReporteRepository.java
+C:\Users\AO-Alumno\Desktop\GrupoCordillera-main\backend\ms-reportes\src\main\java\com\groupcordillera\ms_reportes\repository\ReporteRepository.java
+C:\Users\AO-Alumno\Desktop\GrupoCordillera-main\backend\ms-reportes\src\main\java\com\groupcordillera\ms_reportes\repository\ReporteUsuarioRepository.java
+C:\Users\AO-Alumno\Desktop\GrupoCordillera-main\backend\ms-reportes\src\main\java\com\groupcordillera\ms_reportes\service\ReporteService.java

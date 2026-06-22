@@ -1,0 +1,17 @@
+com\cordillera\ms\usuarios\entity\Antecedente$AntecedenteBuilder.class
+com\cordillera\ms\usuarios\entity\Usuario.class
+com\cordillera\ms\usuarios\entity\CalificacionDriver$CalificacionDriverBuilder.class
+com\cordillera\ms\usuarios\repository\AntecedenteRepository.class
+com\cordillera\ms\usuarios\dto\LoginRequest.class
+com\cordillera\ms\usuarios\service\UsuarioService.class
+com\cordillera\ms\usuarios\kafka\UsuarioProducer.class
+com\cordillera\ms\usuarios\controller\UsuarioController.class
+com\cordillera\ms\usuarios\entity\Antecedente.class
+com\cordillera\ms\usuarios\entity\Usuario$UsuarioBuilder.class
+com\cordillera\ms\usuarios\entity\CalificacionDriver.class
+com\cordillera\ms\usuarios\repository\CalificacionRepository.class
+com\cordillera\ms\usuarios\dto\CalificacionRequest.class
+com\cordillera\ms\usuarios\dto\RegistroRequest.class
+com\cordillera\ms\usuarios\kafka\UsuarioEvent.class
+com\cordillera\ms\usuarios\repository\UsuarioRepository.class
+com\cordillera\ms\usuarios\MsUsuariosApplication.class

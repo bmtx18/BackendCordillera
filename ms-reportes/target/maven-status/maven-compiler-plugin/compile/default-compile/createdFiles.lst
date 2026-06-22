@@ -1,0 +1,13 @@
+com\groupcordillera\ms_reportes\service\ReporteService.class
+com\groupcordillera\ms_reportes\repository\ReporteUsuarioRepository.class
+com\groupcordillera\ms_reportes\repository\DetalleReporteRepository.class
+com\groupcordillera\ms_reportes\repository\ReporteRepository.class
+com\groupcordillera\ms_reportes\model\ReporteUsuario.class
+com\groupcordillera\ms_reportes\MsReportesApplication.class
+com\groupcordillera\ms_reportes\config\KafkaConsumerConfig.class
+com\groupcordillera\ms_reportes\kafka\UsuarioEvent.class
+com\groupcordillera\ms_reportes\kafka\ReporteConsumer.class
+com\groupcordillera\ms_reportes\controller\ReporteController.class
+com\groupcordillera\ms_reportes\model\Reporte.class
+com\groupcordillera\ms_reportes\model\DetalleReporte.class
+com\groupcordillera\ms_reportes\model\Reporte$ReporteBuilder.class

@@ -1,0 +1,7 @@
+com\groupcordillera\ms_kpi\repository\IndicadorRepository.class
+com\groupcordillera\ms_kpi\MsKpiApplication.class
+com\groupcordillera\ms_kpi\repository\AreaRepository.class
+com\groupcordillera\ms_kpi\model\Indicador.class
+com\groupcordillera\ms_kpi\controller\AreaController.class
+com\groupcordillera\ms_kpi\controller\IndicadorController.class
+com\groupcordillera\ms_kpi\model\Area.class
